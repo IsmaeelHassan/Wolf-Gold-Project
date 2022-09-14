@@ -1,0 +1,53 @@
+body{
+    background-color: #eee !important;
+    font-family: sans-serif !important;
+    font-weight: bold !important;
+}
+.home{
+    color: #D7B34C !important;
+}
+.about{
+    color: #D7B34C !important;
+}
+.places{
+    color: #D7B34C !important;
+}
+.login{
+    color: #D7B34C !important;
+}
+.register{
+    color: #D7B34C !important;
+}
+.nav-link:hover{
+    color: #D7B34C !important;
+}
+a{
+    text-decoration: none !important;
+    color: #fff !important;
+}
+.lang{
+    color: #000 !important;
+}
+.card-title{
+    color: #D7B34C !important;
+}
+.card{
+    margin-bottom: 5px !important;
+}
+.card:hover .card-title{
+    color: #00BCD4 !important;
+}
+h3.feedback {
+    color: #FFF !important;
+}
+@media (min-width: 768px) {
+    h3.feedback{
+        margin-top: 25% !important;
+    }
+}
+.img-bg{
+    background: linear-gradient(to right,#D7B34C, #00BCD4) !important;
+}
+.img-hexagon{
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%) !important;
+}
